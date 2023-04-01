@@ -12,8 +12,11 @@
 char searchName[MAX_NAME_LENGTH];
 
 int login() {
+    
+// you can create your own user name and password by changing the values 
+
 char iname[15],ipass[15];
-char uname[15]="yashavant";
+char uname[15]="username";
 char upass[15]="pass123";
 
 do{
