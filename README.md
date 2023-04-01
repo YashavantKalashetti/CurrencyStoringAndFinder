@@ -8,7 +8,7 @@ The main function of the program reads in the currencies from a file and then pr
 Overall, the program is a useful tool for building and managing a collection of currencies. The doubly linked list data structure allows for efficient manipulation of the collection, such as adding and removing currencies and searching for specific currencies. Additionally, it provides a user-friendly interface for interacting with the collection, allowing for easy search and addition of new currencies. It also provides the functionality to add new coin to the file and to print the details of all currencies in the collection.
 
 ## HOW TO RUN
-At first create a file named "currencies.txt" in the same folder as the sorce code.
+At first create a file named "currencies.txt" in the same folder as the source code.
 Then run this command
    `gcc _UCF_MINIPROJECT.c -o mini`
 `./mini`
