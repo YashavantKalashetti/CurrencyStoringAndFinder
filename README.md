@@ -5,8 +5,8 @@ At first create a file named "currencies.txt" in the same folder as the source c
 Then run this command
    `gcc _UCF_MINIPROJECT.c -o mini`
 `./mini`
-Default username = "username"
-Default password = "pass123"
+`Default username = "username"
+Default password = "pass123"`
 
 # ABSTRACT :
 The above code is a C program that implements a doubly linked list data structure to create a collection of currencies. The program reads in a list of currencies from a text file, allowing the user to build up a collection of currencies with name, dynasty, king, and buy value information. The doubly linked list data structure provides a flexible and efficient way to store and manipulate the collection of currencies in this program.
